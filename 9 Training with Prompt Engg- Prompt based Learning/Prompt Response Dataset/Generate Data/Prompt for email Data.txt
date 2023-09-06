@@ -1,0 +1,9 @@
+create an example dataset for Prompt based learning for the topic- 
+Formal Email communication for a reputed IT company. 
+
+Replace [Your Name] with- Courtney Allen. [Company Name] with BigScale LLC 
+and [Contact Information] with a dummy email, phone number and address 
+
+add more Prompts and Responses in this dataset by adding more rows
+
+replace all the commas with semicolon

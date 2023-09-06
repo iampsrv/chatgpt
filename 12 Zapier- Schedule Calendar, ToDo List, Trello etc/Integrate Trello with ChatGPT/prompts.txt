@@ -1,0 +1,10 @@
+Create a kanban dashboard titled- "User Experience Research- Phase1"
+
+Add "Brainstorm session" in To Do list of kanban dashboard
+
+Now add "Customer inquiry form" and "Customer feedback form" in Doing list of Kanban
+
+create checklist for brainstorm session card with items: Welcome Screen, Login page, Contact form
+
+I have configured action now you can proceed further to add checklist items
+

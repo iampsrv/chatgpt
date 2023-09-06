@@ -1,0 +1,4 @@
+After this group discussion, write an email from the Product Manager to UI Designer requesting 
+to share his deliverables on scheduled time so that development work may begin.
+Also share the deadline for each deliverables.
+

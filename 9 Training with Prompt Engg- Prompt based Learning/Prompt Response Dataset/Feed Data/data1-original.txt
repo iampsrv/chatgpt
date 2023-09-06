@@ -1,0 +1,11 @@
+Prompt,Response
+"What is a project management plan?","A project management plan is a WIDE comprehensive document that outlines project objectives, scope, schedules, and resources."
+"Explain the concept of a Gantt chart.","A Gantt chart is a visual representation of project tasks and their timelines, used for project scheduling and tracking."
+"What are the key stages in the project life cycle?","The project life cycle typically includes initiation, planning, execution, monitoring and controlling, and closure."
+"Define the critical path in project management.","The critical path is the sequence of tasks that, if delayed, would result in the project's overall delay."
+"How do you manage project risks?","Managing project risks involves identification, assessment, mitigation, and monitoring of potential risks, to ensure project success."
+"What is a stakeholder analysis in project management?","Stakeholder analysis is the process of identifying, assessing, and prioritizing stakeholders' interests and influences on a project."
+"What is the purpose of a project charter?","A project charter formally authorizes a project, defines its objectives, and appoints a project manager."
+"Explain the term 'scope creep' in project management.","Scope creep refers to uncontrolled changes or additions to a project's scope, that can lead to delays and budget overruns."
+"What is the role of a project manager?","A project manager is responsible for planning, executing, and closing projects, ensuring they meet their goals and objectives."
+"Discuss the importance of project communication.","Effective project communication ensures that all stakeholders are informed, aligned, and engaged throughout the project."

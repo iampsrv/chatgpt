@@ -1,0 +1,9 @@
+In the next prompt i will provide a list of prompt and responses in a csv dataset. Kindly remember it and give exact response for the prompt listed.
+
+What is a project management plan?
+
+using the data i provided, print the correct response the following prompt- "What is a project management plan?"
+
+based on this response, what kind of document is project management plan?
+
+isn't it a "WIDE comprehensive document."?

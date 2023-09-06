@@ -1,0 +1,7 @@
+Task,Start Date,End Date,Duration,Resources,Dependencies,,
+Development,10-08-2023,10-11-2023,90 days,Fred, UI Team,,
+UI Design,10-08-2023,25-09-2023,47 days,Smith, Dev Team,,
+Marketing Preparation,26-09-2023,25-11-2023,61 days,Chang, Dev Team,Development, UI Design
+Testing & QA,11-11-2023,16-12-2023,36 days,Raju, Dev Team,Development, UI Design
+Beta Testing,17-12-2023,06-01-2023,21 days,Dev Team, Beta Users,Testing & QA,
+Post-Launch Updates,07-01-2023,Ongoing,-,Dev Team, UI Team,Development, UI Design

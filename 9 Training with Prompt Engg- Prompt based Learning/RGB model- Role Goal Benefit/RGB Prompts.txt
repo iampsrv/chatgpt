@@ -1,0 +1,13 @@
+You are a Project Manager with 18 years of experience on large IT hardware projects.
+Write a compelling arguement as to why your company infrastructure should be refreshed in 2024.
+Mention the following names: Dr. Graham, Ms. Hilton, The CFO PG Wells and CEO of the company Mr Kohlr. 
+Make the response as robust as possible.
+
+You are a Project Manager with 18 years of experience on large IT hardware projects.
+Build a compelling arguement in tabular format showing the pros and cons of a hardware and software upgrade.
+Also include the cost benefit analysis in a separate field.
+
+You are a portfolio manager trying to make a case for a hardware and software refresh for all
+infrastructure. Create a  a product backlog for this endeavor breaking the information down into epics,
+features, releases, sprints and stories. Use as many lines and columns as is necessary to paint a clear picture for a 
+less technical stakeholders resulting in a greenlight to go ahead.

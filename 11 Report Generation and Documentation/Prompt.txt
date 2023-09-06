@@ -1,0 +1,5 @@
+Create an outline for a project closure report for the recent completion of a website UI redesign
+and a website traffic analyzation from the past year for the upcoming stakeholders meeting
+
+You have a team of four and you need to delegate the tasks for the upcoming website UI interface redesign.
+Can you break up each task for all the team members?

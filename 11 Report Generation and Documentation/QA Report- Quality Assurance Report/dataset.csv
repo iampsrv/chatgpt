@@ -1,0 +1,7 @@
+Bug ID, Description, Severity, Status, Date Reported, Date Resolved, Tested By, Comments
+1, "Crash on startup for Android 10", Critical, Open, 2023-01-01, , John Doe, "Reported by multiple beta testers"
+2, "Login button not responsive", High, Resolved, 2023-01-03, 2023-01-10, Jane Smith, "Fixed in v1.0.1 patch"
+3, "Typos in Settings page", Low, Resolved, 2023-01-05, 2023-01-08, John Doe, "Corrected all spelling errors"
+4, "Slow response on Profile page", Medium, In-progress, 2023-01-10, , Jane Smith, "Might be due to server lag"
+5, "Incorrect currency symbol in payment page", Medium, Open, 2023-01-15, , John Doe, "Only affects the UK region"
+6, "Permission requests not clear", High, Resolved, 2023-01-20, 2023-01-25, Jane Smith, "Reworded permission pop-ups in v1.0.2"

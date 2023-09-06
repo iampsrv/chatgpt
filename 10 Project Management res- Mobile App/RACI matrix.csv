@@ -1,0 +1,7 @@
+Task,Fred (Dev),Smith (UI),Chang (Mktg),Raju (QA),Natasha (PM)
+Development,Responsible,,,,Informed
+UI Design,Consulted,Responsible,,,Informed
+Marketing Preparation,,,Responsible,,Accountable
+Testing & QA,,,,Responsible,Informed
+Beta Testing,Responsible,Consulted,Consulted,Consulted,Informed
+Post-Launch Updates (Ongoing),Responsible,Consulted,Consulted,Consulted,Accountable

@@ -1,0 +1,11 @@
+Login to Zappier, Gmail/Google Calendar and Todoist
+
+Can you add a calendar event to lwharshit's calendar? The title is Project Brainstorm activity
+and description is done with chatGPT. This event is going to happen on 15 september at 2 pm.
+Then add this task to todo list.
+
+Now you can proceed further.
+
+Can you add below list of calendar events to lwharshit's Calender?
+
+Give me confirmation links

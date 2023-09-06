@@ -1,0 +1,16 @@
+"Project Name: ZetaCRM Suite Development"
+
+"Item ID","Expense Category","Planned Cost ($)","Actual Cost ($)","Variance ($)","Remarks"
+"001","Project Management",10000,9500,500,"Under budget"
+"002","Software Licensing",8000,9000,-1000,"Additional licenses needed"
+"003","Hardware Costs",5000,4700,300,"Under budget"
+"004","Developer Salaries",100000,105000,-5000,"Overtime costs"
+"005","Testing",15000,14500,500,"Efficient testing"
+"006","Documentation",5000,5200,-200,"Extended documentation"
+"007","Training",8000,8500,-500,"Additional training sessions"
+"008","Marketing",10000,9800,200,"Under budget"
+"009","Miscellaneous",3000,3500,-500,"Unexpected expenses"
+
+"Total Planned Cost:",164000
+"Total Actual Cost:",170200
+"Total Variance:",-6200

@@ -1,0 +1,4 @@
+Generate a dataset with dummy data that can be used for generating "Quality Assurance Report". Assuming this as a Mobile App development project by the company- ACC Corp.
+
+now create Quality Assurance Report
+
