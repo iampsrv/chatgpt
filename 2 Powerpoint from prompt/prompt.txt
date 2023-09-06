@@ -1,0 +1,2 @@
+create a list of titles for the slides on the topic- C Programming for Beginners. Assuming that I am a senior developer who is assigned to deliver a 4 hours training to the new joiners in our company- Galactic Software LLC. 
+
