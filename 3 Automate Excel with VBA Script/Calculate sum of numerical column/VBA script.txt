@@ -1,0 +1,36 @@
+Sub CalculateColumnSumAndFormat()
+    Dim ws As Worksheet
+    Dim LastRow As Long
+    Dim LastCol As Long
+    Dim Col As Long
+    Dim Sum As Double
+    
+    ' Set the worksheet where you want to perform the calculation
+    Set ws = ThisWorkbook.Sheets("Sheet1") ' Change "Sheet1" to your sheet name
+    
+    ' Find the last row and last column with data
+    LastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+    LastCol = ws.Cells(1, ws.Columns.Count).End(xlToLeft).Column
+    
+    ' Loop through each column
+    For Col = 1 To LastCol
+        ' Initialize sum for the column
+        Sum = 0
+        
+        ' Check if the column contains numerical values
+        For Each cell In ws.Range(ws.Cells(1, Col), ws.Cells(LastRow, Col))
+            If IsNumeric(cell.Value) Then
+                Sum = Sum + cell.Value
+            End If
+        Next cell
+        
+        ' Print the sum of the column just below the last row
+        ws.Cells(LastRow + 2, Col).Value = Sum
+        
+        ' Format the sum cell
+        With ws.Cells(LastRow + 2, Col).Font
+            .Bold = True
+            .Size = 20
+        End With
+    Next Col
+End Sub

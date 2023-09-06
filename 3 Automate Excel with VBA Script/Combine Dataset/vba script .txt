@@ -1,0 +1,50 @@
+Sub CopyDataFromFilesInFolder()
+    Dim FolderPath As String
+    Dim CurrentWB As Workbook
+    Dim FileWB As Workbook
+    Dim wsDest As Worksheet
+    Dim LastRowDest As Long
+    Dim LastRowSource As Long
+    Dim FileName As String
+    
+    ' Set the folder path where the Excel files are located
+    FolderPath = "E:\0 ChatGPT for Project Management\res\Automate Excel with VBA Script\Combine Dataset\xls\" ' Change this to your folder path
+    
+    ' Set the destination worksheet in the currently open workbook
+    On Error Resume Next
+    Set CurrentWB = ThisWorkbook
+    Set wsDest = CurrentWB.Sheets("Allsalesdata") ' Change "All_sales_data" to your destination sheet name
+    On Error GoTo 0
+    
+    If wsDest Is Nothing Then
+        MsgBox "Destination sheet not found. Please check the sheet name.", vbExclamation
+        Exit Sub
+    End If
+    
+    Application.ScreenUpdating = False
+    Application.DisplayAlerts = False
+    
+    ' Loop through files in the folder
+    FileName = Dir(FolderPath & "*.xlsx")
+    Do While FileName <> ""
+        ' Open the source workbook
+        Set FileWB = Workbooks.Open(FolderPath & FileName)
+        
+        ' Get the last row of the destination sheet
+        LastRowDest = wsDest.Cells(wsDest.Rows.Count, "A").End(xlUp).Row
+        
+        ' Get the last row of the source sheet
+        LastRowSource = FileWB.Sheets(1).Cells(FileWB.Sheets(1).Rows.Count, "A").End(xlUp).Row
+        
+        ' Copy data from source to destination
+        FileWB.Sheets(1).Range("A2:C" & LastRowSource).Copy wsDest.Range("A" & LastRowDest + 1)
+        
+        FileWB.Close SaveChanges:=False
+        FileName = Dir
+    Loop
+    
+    Application.ScreenUpdating = True
+    Application.DisplayAlerts = True
+    
+    MsgBox "Data copied from files in the folder."
+End Sub

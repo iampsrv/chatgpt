@@ -1,0 +1,5 @@
+Could you create conclusion from the transcript?
+
+Ok, So in the next prompt I will provide text transcript of an interview.
+Kindly generate a conclusion in a paragraph and at the end please suggest whether this person should be hired or not
+with listed observation points.

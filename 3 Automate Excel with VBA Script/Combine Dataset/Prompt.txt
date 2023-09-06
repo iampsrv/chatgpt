@@ -1,0 +1,1 @@
+write a vba script that will copy column a,b and c without the first row from all excel files in a certain folder and paste it in the open excel file one below the other.

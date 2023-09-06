@@ -1,0 +1,21 @@
+﻿Product,Date and Time,Price,Margin
+Milk,Feb-21,80,10
+Milk,Mar-21,85,12
+Milk,Apr-21,90,14
+Milk,May-21,95,16
+Milk,Jun-21,102,20
+Oranges,Feb-21,50,10
+Oranges,Mar-21,45,9
+Oranges,Apr-21,45,8
+Oranges,May-21,39,7
+Oranges,Jun-21,35,5
+Grapes,Feb-21,50,10
+Grapes,Mar-21,55,11
+Grapes,Apr-21,59,12
+Grapes,May-21,63,13
+Grapes,Jun-21,70,15
+Bread,Feb-21,60,10
+Bread,Mar-21,60,10
+Bread,Apr-21,60,10
+Bread,May-21,60,9
+Bread,Jun-21,60,11

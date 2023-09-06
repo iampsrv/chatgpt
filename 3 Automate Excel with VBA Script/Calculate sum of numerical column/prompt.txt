@@ -1,0 +1,2 @@
+Create a VBA script for excel where I want to calculate sum of each column that has a numerical value.
+After calculating, print sum of all the values in the column just below the last row in Bold font type and with 20 font size.

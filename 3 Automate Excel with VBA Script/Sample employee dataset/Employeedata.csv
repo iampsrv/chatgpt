@@ -1,0 +1,24 @@
+Employee ID,First Name,Last Name,Email,Department,Position,Project Assigned,Date of Birth,Address- Street,City,Country,Phone Number
+EMP001,John,Doe,john.doe@example.com,Development,Software Engineer,Project Phoenix,15-03-1985,123 Main St, Anytown, USA,+1 (555) 123-4567
+EMP002,Jane,Smith,jane.smith@example.com,Development,QA Engineer,Project Nebula,22-07-1990,456 Elm St, Cityville, USA,+1 (555) 987-6543
+EMP003,Robert,Johnson,robert.johnson@example.com,Marketing,Marketing Manager,Project Stellar,30-11-1982,789 Oak St, Metro City, USA,+1 (555) 789-0123
+EMP004,Emily,Davis,emily.davis@example.com,Sales,Sales Manager,Project Odyssey,18-05-1988,567 Pine St, Townsville, USA,+1 (555) 234-5678
+EMP005,Michael,Wilson,michael.wilson@example.com,Development,Project Manager,Project Pulsar,03-09-1977,890 Cedar St, Riverside, USA,+1 (555) 876-5432
+EMP006,Sarah,Brown,sarah.brown@example.com,Design,UI/UX Designer,Project Aurora,07-02-1995,678 Birch St, Lakeside, USA,+1 (555) 432-1098
+EMP007,David,Lee,david.lee@example.com,Development,Software Engineer,Project Orion,14-12-1987,345 Oak St, Cityscape, USA,+1 (555) 567-8901
+EMP008,Lisa,Rodriguez,lisa.rodriguez@example.com,Development,QA Engineer,Project Zenith,25-04-1991,234 Maple St, Suburbia, USA,+1 (555) 210-9876
+EMP009,William,Martinez,william.martinez@example.com,Marketing,Marketing Manager,Project Galaxy,11-08-1980,123 Pine St, Hometown, USA,+1 (555) 321-0987
+EMP010,Olivia,Clark,olivia.clark@example.com,Sales,Sales Manager,Project Titan,29-01-1984,456 Oak St, Villageton, USA,+1 (555) 654-3210
+EMP011,Ahmed,Khan,ahmed.khan@example.com,Development,Software Engineer,Project Nebula,14-06-1986,567 Cedar St, Cityview, USA,+1 (555) 789-4321
+EMP012,Maria,Santos,maria.santos@example.com,Design,Graphic Designer,Project Zenith,10-03-1992,678 Elm St, Countryside, USA,+1 (555) 234-5678
+EMP013,Chang,Wu,chang.wu@example.com,Development,QA Engineer,Project Pulsar,27-09-1989,789 Maple St, Uptown, USA,+1 (555) 876-5432
+EMP014,Priya,Patel,priya.patel@example.com,Marketing,Marketing Specialist,Project Stellar,03-07-1993,890 Birch St, Riverside, USA,+1 (555) 432-1098
+EMP015,Javier,Lopez,javier.lopez@example.com,Sales,Sales Associate,Project Odyssey,20-12-1983,123 Oak St, Cityscape, USA,+1 (555) 567-8901
+EMP016,Mei,Chen,mei.chen@example.com,Development,Software Engineer,Project Phoenix,05-04-1981,234 Pine St, Suburbia, USA,+1 (555) 210-9876
+EMP017,Malik,Toure,malik.toure@example.com,Development,Data Analyst,Project Titan,08-11-1994,567 Cedar St, Riverside, USA,+1 (555) 987-6543
+EMP018,Aisha,Rahman,aisha.rahman@example.com,Development,Software Engineer,Project Nebula,17-07-1984,678 Elm St, Lakeside, USA,+1 (555) 789-0123
+EMP019,Yuki,Nakamura,yuki.nakamura@example.com,Design,UI/UX Designer,Project Aurora,25-02-1990,789 Oak St, Metro City, USA,+1 (555) 234-5678
+EMP020,Avi,Cohen,avi.cohen@example.com,Development,QA Engineer,Project Alpha,29-06-1988,567 Pine St, Townsville, USA,+1 (555) 876-5432
+EMP021,Priyanka,Das,priyanka.das@example.com,Marketing,Marketing Manager,Project Galaxy,14-03-1982,890 Cedar St, Riverside, USA,+1 (555) 432-1098
+EMP022,Susilo,Wijaya,susilo.wijaya@example.com,Sales,Sales Manager,Project Titan,10-09-1989,123 Maple St, Uptown, USA,+1 (555) 321-0987
+EMP023,Amina,Keita,amina.keita@example.com,Development,Project Manager,Project Gamma,02-01-1986,456 Elm St, Cityville, USA,+1 (555) 321-0987
